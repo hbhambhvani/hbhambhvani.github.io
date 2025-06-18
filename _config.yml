@@ -5,6 +5,7 @@ twitter_username:
 github_username: hbhambhvani
 minimal_mistakes_skin: default
 search: true
+remote_theme: mmistakes/minimal-mistakes
 url: "https://hbhambhvani.github.io"
 baseurl: ""
 timezone: America/New_York
