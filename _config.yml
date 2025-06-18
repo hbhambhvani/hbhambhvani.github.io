@@ -1,4 +1,4 @@
-title: "PGY4 Dinner Blog"
+title: "Brady PGY4 Supper Club"
 email:
 description: "A collection of monthly dinner chronicles, stories, and reflections on NYC's culinary scene from the promised land (research year)."
 twitter_username:
@@ -24,9 +24,9 @@ plugins:
 
 
 author:
-  name   : "Hriday Bhambhvani"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PGY4 by day, foodie by night. Blogging our monthly dinner adventures."
+  name   : "The Professors"
+  avatar : "/assets/images/professors.jpg"
+  bio    : "PGY4s by day, foodies by night. Blogging our dinner adventures and research year shenanigans."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
