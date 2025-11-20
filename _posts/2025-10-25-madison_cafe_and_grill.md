@@ -70,10 +70,10 @@ In summary, Madison Cafe & Grill is a cozy, high-yield Lebanese spot in Edgewate
 Final Professor rating: **9.0/10 (95% CI: 8.7–9.3, limited by high shish kebab bias)**
 
 **Plan:** 
-•	Return PRN when Professor F’s Lebanese food levels drop below baseline
-•	Bring more APPs (they buy dessert, and also make everything better)
-•	Order extra zaatar manakeesh “for the table,” then proceed to eat 80% of it ourselves
-•	If burnout recurs, repeat Madison + Mitsuwa combo until symptoms improve
+•	Return PRN when Professor F’s Lebanese food levels drop below baseline<br>
+•	Bring more APPs (they buy dessert, and also make everything better)<br>
+•	Order extra zaatar manakeesh “for the table,” then proceed to eat 80% of it ourselves<br>
+•	If burnout recurs, repeat Madison + Mitsuwa combo until symptoms improve<br>
 
 📍 **Madison Cafe & Grill** — Edgewater, NJ<br> 
 ⭐️ Highlights: Taboule, Shish Kabab, Roasted Branzino, and Mitsuwa ice cream!<br> 
