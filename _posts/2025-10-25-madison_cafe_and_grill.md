@@ -14,7 +14,7 @@ We also had a big absence. For the first time, one of the core Professors didn�
 
 Here are the highlights from our first crossover special episode:
 
-![Madison Cafe Group Pic](/assets/images/madison_pic_9.jpg)
+![Madison Cafe Group Pic](/assets/images/madison_pic_1.png)
 
 <u>Zaatar Manakeesh</u><br>
 This came out first and immediately reset everyone’s vital signs after a long drive under the Hudson River. Warm, crispy, covered in zaatar and a heroic amount of fragrant olive oil. The kind of olive oil that smells incredible, coats your soul, and definitely your fingers—but still somehow less oily than the hot tub water certain residents have been known to frequently use in the name of “wellness.”
